@@ -1,5 +1,5 @@
 FROM phusion/baseimage:0.11
-LABEL maintainer="Jainam Jhaveri <namhv@rikkeisoft.com>"
+LABEL maintainer="Brian Hoang <namhv@rikkeisoft.com>"
 
 CMD ["/sbin/my_init"]
 
